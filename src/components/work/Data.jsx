@@ -11,30 +11,35 @@ export const projectsData = [
         image: Work1,
         title: "Web Development",
         category: "web",
+        link: "https://github.com/RohitSingh-dev/school_management",
     },
     {
         id: 2,
         image: Work2,
         title: "Web Development",
         category: "web",
+        link: "https://github.com/RohitSingh-dev/social-media",
     },
     {
         id: 3,
         image: Work3,
         title: "Backend Development",
         category: "backend",
+        link: "https://github.com/RohitSingh-dev/customer-demo-project",
     },
     {
         id: 4,
         image: Work4,
         title: "Frontend Development",
         category: "frontend",
+        link: "https://github.com/RohitSingh-dev/location-tracker",
     },
     {
         id: 5,
         image: Work5,
         title: "Frontend Development",
         category: "frontend",
+        link: "https://github.com/RohitSingh-dev/anime-studios",
     },
 ];
 
