@@ -28,7 +28,7 @@ const Contact = () => {
                         <i className="bx bx-mail-send contact__card-icon"></i>
                         <h3 className="contact__card-title">Email</h3>
                         <span className="contact__card-data">rohitsingh20082002@gmail.com</span>
-                        <span className="contact__button">Write me 
+                        <span className="contact__button">Reach out 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></span>
                     </div>
 
@@ -36,7 +36,7 @@ const Contact = () => {
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
                         <h3 className="contact__card-title">WhatsApp</h3>
                         <span className="contact__card-data">+91-7679440150</span>
-                        <span className="contact__button">Write me 
+                        <span className="contact__button">Reach out 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></span>
                     </div>
 
