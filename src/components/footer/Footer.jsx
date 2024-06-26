@@ -22,7 +22,7 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-                <a href="https://www.linkedin.com/in/rohit-kumar-singh-b15411240" className="footer__social-link" target='_blank'>
+                <a href="https://www.linkedin.com/in/rohitsingh-dev/" className="footer__social-link" target='_blank'>
                     <i className="bx bxl-linkedin"></i>
                 </a>
 
@@ -30,7 +30,7 @@ const Footer = () => {
                     <i className="bx bxl-github"></i>
                 </a>
 
-                <a href="https://x.com/rohit_singh2002?t=jQHnz2kmGNLNyXGUqpEoEg&s=09" className="footer__social-link" target='_blank'>
+                <a href="https://x.com/not_a_zenin" className="footer__social-link" target='_blank'>
                     <i className="bx bxl-twitter"></i>
                 </a>
             </div>
